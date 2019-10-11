@@ -5,4 +5,3 @@ commit A
 commit B
 commit C
 commit D
-commit from test branch
